@@ -1,0 +1,14 @@
+# arquivos temporários
+*.tmp
+*.bak
+~$*
+
+# arquivos do Excel temporários
+*.xlk
+
+# backups do Power BI
+*.pbix~*
+
+# pasta de sistema
+.DS_Store
+Thumbs.db

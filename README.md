@@ -35,10 +35,14 @@ A tela inicial exibe uma visão geral da conformidade das turmas:
 - **Gráfico de pizza** com a distribuição das classificações
 - **Tabela detalhada** com carga horária presencial e online de cada turma
 
+![Turma](ImagesDashboard/page1.png)
+
 ### 🖱️ Interação
 
 - Ao **clicar em uma turma** e no botão correspondente:
 Abre uma tela com **informações específicas** da turma selecionada:
+
+![Turma](ImagesDashboard/page2.png)
 
 
 ---

@@ -2,6 +2,8 @@
 
 Este projeto é um **teste técnico** voltado à análise de dados de diversas instituições de ensino. O objetivo é avaliar se as turmas presenciais estão em conformidade com a regulamentação do MEC sobre o limite de carga horária online.
 
+**Link para o Dashboard:** [Acesse aqui](https://app.powerbi.com/view?r=eyJrIjoiODRhZGNjZTUtODBlMy00ZTc2LTk0NmEtNWQ3ODg5NTE2OTI5IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&pageName=81d366f4a240b0a67cb6)
+
 ## 🔍 Objetivo
 
 Verificar a conformidade das turmas com as regras do MEC:
